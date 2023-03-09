@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">KianTablet</string>
+    <string name="save_to_database">Save To DataBase</string>
+    <string name="nfc_disabled">NFC is not enabled. Please go to the wireless settings to enable it.</string>
+    <string name="card_holder_validation">card_holder_validation</string>
+
+    <string-array name="mime">
+        <item>Text</item>
+        <item>URI</item>
+    </string-array>
+
+    <string-array name="uri_prefix">
+        <item>Select Uri Prefix</item>
+        <item>http://www.</item>
+        <item>https://www.</item>
+        <item>"tel:"</item>
+        <item>mailto:</item>
+        <item>ftp://ftp.</item>
+        <item>sftp://</item>
+        <item>news:</item>
+        <item>telnet://</item>
+        <item>imap:</item>
+        <item>rtsp://</item>
+        <item>pop:</item>
+        <item>sip:</item>
+        <item>btgoep://</item>
+        <item>tcpobex://</item>
+        <item>file://</item>
+    </string-array>
+</resources>
